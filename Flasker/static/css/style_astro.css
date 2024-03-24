@@ -1,0 +1,17 @@
+
+
+
+.font-astro-title {
+    position:absolute;
+    font-family:"Times New Roman";
+    color:#23961b;
+    top: 100px; right:450px
+}
+
+.font-astro-description{
+    position:absolute;
+    font-family:"Times New Roman";
+    color: white;
+    top:140px; left: 50px;
+    text-align: center;
+}
